@@ -1,1 +1,2 @@
-This edit wwas made in the GitHub browser
+This edit was made in the GitHub browser
+This edit was made through the local repo
